@@ -1,0 +1,14 @@
+1-<title> </title>
+2-<div class="page-container"> </div>
+3-<selection> </selection>
+4-<img src="Path" alt="imagem ilustrativa">
+5-<h1>Titulo</h1> 
+6-<h2>Perfil</h2>
+7-<p>texto aleatorio</p>
+8- p {
+    text-align: justify
+}
+9- <ul> lista não ordenadas</ul>
+10- <li> add na lista </li>
+11- <a href="www.facebook.com"> <li>FaceBook </li> </a> // hiper link
+12- <footer> <p>&copy; 2024 Página de Exemplo 4º Aula</p> </footer>
