@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  .letras-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .titulo-musica {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .letras {
+    text-align: center;
+    margin-bottom: 10px;
+  }
